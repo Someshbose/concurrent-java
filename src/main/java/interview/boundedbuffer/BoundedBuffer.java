@@ -1,4 +1,4 @@
-package interview;
+package interview.boundedbuffer;
 
 public class BoundedBuffer {
   public static void main(String[] args) throws Exception{

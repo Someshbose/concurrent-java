@@ -1,4 +1,4 @@
-package interview;
+package interview.boundedbuffer;
 
 import java.util.concurrent.Semaphore;
 
